@@ -35,7 +35,47 @@
   }
  },
  "data": {
-  "methods": {},
-  "deployments": []
+  "methods": {
+   "InitialContract_61bc221a": {
+    "key": "61bc221a",
+    "isCall": true,
+    "contract": "InitialContract",
+    "method": "counter",
+    "fnSig": "counter()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "InitialContract_8ada066e": {
+    "key": "8ada066e",
+    "isCall": true,
+    "contract": "InitialContract",
+    "method": "getCounter",
+    "fnSig": "getCounter()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "InitialContract_d09de08a": {
+    "key": "d09de08a",
+    "isCall": false,
+    "contract": "InitialContract",
+    "method": "increment",
+    "fnSig": "increment()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   }
+  },
+  "deployments": [
+   {
+    "name": "InitialContract",
+    "gasData": [],
+    "callData": []
+   }
+  ]
  }
 }
