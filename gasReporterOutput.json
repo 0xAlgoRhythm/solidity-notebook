@@ -367,10 +367,10 @@
     "gasData": [],
     "numberOfCalls": 0
    },
-   "EventLogger_3206b2c6": {
+   "utils/EventLogger_1767829642.sol:EventLogger_3206b2c6": {
     "key": "3206b2c6",
     "isCall": true,
-    "contract": "EventLogger",
+    "contract": "utils/EventLogger_1767829642.sol:EventLogger",
     "method": "getLog",
     "fnSig": "getLog(uint256)",
     "intrinsicGas": [],
@@ -378,10 +378,10 @@
     "gasData": [],
     "numberOfCalls": 0
    },
-   "EventLogger_618033db": {
+   "utils/EventLogger_1767829642.sol:EventLogger_618033db": {
     "key": "618033db",
     "isCall": true,
-    "contract": "EventLogger",
+    "contract": "utils/EventLogger_1767829642.sol:EventLogger",
     "method": "getLogCount",
     "fnSig": "getLogCount()",
     "intrinsicGas": [],
@@ -389,10 +389,10 @@
     "gasData": [],
     "numberOfCalls": 0
    },
-   "EventLogger_e52e64f9": {
+   "utils/EventLogger_1767829642.sol:EventLogger_e52e64f9": {
     "key": "e52e64f9",
     "isCall": true,
-    "contract": "EventLogger",
+    "contract": "utils/EventLogger_1767829642.sol:EventLogger",
     "method": "getRecentLogs",
     "fnSig": "getRecentLogs(uint256)",
     "intrinsicGas": [],
@@ -400,10 +400,10 @@
     "gasData": [],
     "numberOfCalls": 0
    },
-   "EventLogger_8d43d68c": {
+   "utils/EventLogger_1767829642.sol:EventLogger_8d43d68c": {
     "key": "8d43d68c",
     "isCall": false,
-    "contract": "EventLogger",
+    "contract": "utils/EventLogger_1767829642.sol:EventLogger",
     "method": "logAction",
     "fnSig": "logAction(string,bytes)",
     "intrinsicGas": [],
@@ -411,10 +411,65 @@
     "gasData": [],
     "numberOfCalls": 0
    },
-   "EventLogger_e79899bd": {
+   "utils/EventLogger_1767829642.sol:EventLogger_e79899bd": {
     "key": "e79899bd",
     "isCall": true,
-    "contract": "EventLogger",
+    "contract": "utils/EventLogger_1767829642.sol:EventLogger",
+    "method": "logs",
+    "fnSig": "logs(uint256)",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "utils/EventLogger_1767851786.sol:EventLogger_3206b2c6": {
+    "key": "3206b2c6",
+    "isCall": true,
+    "contract": "utils/EventLogger_1767851786.sol:EventLogger",
+    "method": "getLog",
+    "fnSig": "getLog(uint256)",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "utils/EventLogger_1767851786.sol:EventLogger_618033db": {
+    "key": "618033db",
+    "isCall": true,
+    "contract": "utils/EventLogger_1767851786.sol:EventLogger",
+    "method": "getLogCount",
+    "fnSig": "getLogCount()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "utils/EventLogger_1767851786.sol:EventLogger_e52e64f9": {
+    "key": "e52e64f9",
+    "isCall": true,
+    "contract": "utils/EventLogger_1767851786.sol:EventLogger",
+    "method": "getRecentLogs",
+    "fnSig": "getRecentLogs(uint256)",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "utils/EventLogger_1767851786.sol:EventLogger_8d43d68c": {
+    "key": "8d43d68c",
+    "isCall": false,
+    "contract": "utils/EventLogger_1767851786.sol:EventLogger",
+    "method": "logAction",
+    "fnSig": "logAction(string,bytes)",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "utils/EventLogger_1767851786.sol:EventLogger_e79899bd": {
+    "key": "e79899bd",
+    "isCall": true,
+    "contract": "utils/EventLogger_1767851786.sol:EventLogger",
     "method": "logs",
     "fnSig": "logs(uint256)",
     "intrinsicGas": [],
@@ -440,11 +495,6 @@
     "callData": []
    },
    {
-    "name": "EventLogger",
-    "gasData": [],
-    "callData": []
-   },
-   {
     "name": "InitialContract",
     "gasData": [],
     "callData": []
@@ -464,6 +514,16 @@
     "min": 540670,
     "max": 540670,
     "percent": 1.8
+   },
+   {
+    "name": "utils/EventLogger_1767829642.sol:EventLogger",
+    "gasData": [],
+    "callData": []
+   },
+   {
+    "name": "utils/EventLogger_1767851786.sol:EventLogger",
+    "gasData": [],
+    "callData": []
    }
   ]
  }
