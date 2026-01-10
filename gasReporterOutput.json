@@ -531,6 +531,105 @@
     "gasData": [],
     "numberOfCalls": 0
    },
+   "Token_1768080500_2d1fb389": {
+    "key": "2d1fb389",
+    "isCall": false,
+    "contract": "Token_1768080500",
+    "method": "authorize",
+    "fnSig": "authorize(address,bool)",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_b9181611": {
+    "key": "b9181611",
+    "isCall": true,
+    "contract": "Token_1768080500",
+    "method": "authorized",
+    "fnSig": "authorized(address)",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_02d05d3f": {
+    "key": "02d05d3f",
+    "isCall": true,
+    "contract": "Token_1768080500",
+    "method": "creator",
+    "fnSig": "creator()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_5a9b0b89": {
+    "key": "5a9b0b89",
+    "isCall": true,
+    "contract": "Token_1768080500",
+    "method": "getInfo",
+    "fnSig": "getInfo()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_af640d0f": {
+    "key": "af640d0f",
+    "isCall": true,
+    "contract": "Token_1768080500",
+    "method": "id",
+    "fnSig": "id()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_22f3e2d4": {
+    "key": "22f3e2d4",
+    "isCall": true,
+    "contract": "Token_1768080500",
+    "method": "isActive",
+    "fnSig": "isActive()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_06fdde03": {
+    "key": "06fdde03",
+    "isCall": true,
+    "contract": "Token_1768080500",
+    "method": "name",
+    "fnSig": "name()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_c47f0027": {
+    "key": "c47f0027",
+    "isCall": false,
+    "contract": "Token_1768080500",
+    "method": "setName",
+    "fnSig": "setName(string)",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
+   "Token_1768080500_29c68dc1": {
+    "key": "29c68dc1",
+    "isCall": false,
+    "contract": "Token_1768080500",
+    "method": "toggleActive",
+    "fnSig": "toggleActive()",
+    "intrinsicGas": [],
+    "callData": [],
+    "gasData": [],
+    "numberOfCalls": 0
+   },
    "crud/UserRegistry_1767861682.sol:UserRegistry_b5ffbbcc": {
     "key": "b5ffbbcc",
     "isCall": true,
@@ -2018,6 +2117,11 @@
    },
    {
     "name": "security/AccessControl_1768039179.sol:AccessControl",
+    "gasData": [],
+    "callData": []
+   },
+   {
+    "name": "Token_1768080500",
     "gasData": [],
     "callData": []
    },
