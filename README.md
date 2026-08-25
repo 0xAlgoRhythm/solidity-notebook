@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Automation](https://img.shields.io/badge/automation-every%205min-blue)
-![Contracts](https://img.shields.io/badge/contracts-32-orange)
+![Contracts](https://img.shields.io/badge/contracts-30-orange)
 ![Tests](https://img.shields.io/badge/tests-532-purple)
 
 ---
@@ -28,12 +28,12 @@ This repository is an **automated learning laboratory** for Solidity smart contr
 
 | Metric | Count |
 |--------|-------|
-| 📜 Smart Contracts | **32** |
+| 📜 Smart Contracts | **30** |
 | 🧪 Test Files | **532** |
-| 🚀 Scripts | **21** |
+| 🚀 Scripts | **20** |
 | 📚 Documentation | **580** |
-| 🔄 Total Commits | **3797** |
-| ⏰ Last Update | 2026-08-25 08:19 UTC |
+| 🔄 Total Commits | **3798** |
+| ⏰ Last Update | 2026-08-25 09:12 UTC |
 
 ---
 
@@ -264,9 +264,9 @@ This is an automated learning repository, but suggestions are welcome!
 ## 📊 Activity Heatmap
 
 ```
-Contracts: ████████████████████ 32
+Contracts: ████████████████████ 30
 Tests:     ████████████████░░░░ 532
-Scripts:   ████████░░░░░░░░░░░░ 21
+Scripts:   ████████░░░░░░░░░░░░ 20
 Docs:      ██████░░░░░░░░░░░░░░ 580
 ```
 
@@ -292,7 +292,7 @@ If you find this repository helpful for learning Solidity, please consider givin
 
 ---
 
-**Last automated update**: 2026-08-25 08:19:41 UTC  
+**Last automated update**: 2026-08-25 09:12:20 UTC  
 **Status**: 🟢 Active & Learning  
 **Next update**: In ~5 minutes
 
